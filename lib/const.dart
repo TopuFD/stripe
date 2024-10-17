@@ -1,0 +1,6 @@
+
+
+class ApiService{
+  static const publishableKey = "pk_test_51QAlfRKN37lQc7z95yHg6nrpGlpm6UD2Q2yqNK1tK60UTQwMcXhQ6zoqhTPasHpXPssn7KJLAKVxYbcGZcQffJur00sctRxg6V";
+  static const secretKey = "sk_test_51QAlfRKN37lQc7z9FivKUYOQdE2DDrNR70sj4yBMS29mWVJ38LDli2T67xCoVkxX3u1A466MIWe7y9IyKwpFnmsq00PUj7b2tj";
+}
